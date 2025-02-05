@@ -39,4 +39,4 @@ By exploring this dataset, we aim to answer the following questions:
 
 ## Resources
 - The dataset was obtained from [Inside Airbnb](https://insideairbnb.com/get-the-data/)
-- Blog link [https://medium.com/@shady.nayel.reda/what-are-your-best-options-in-amsterdam-airbnb-listings-d8e367c9c1c5]
+- Blog link [Amsterdam Airbnb Open Data Project](https://medium.com/@shady.nayel.reda/what-are-your-best-options-in-amsterdam-airbnb-listings-d8e367c9c1c5)
